@@ -75,7 +75,7 @@ The Script View of test cases allows you to programmatically define and handle F
 
 For example:
 
-<table><thead><tr><th>Looping statement</th> <th>Screenshot</th> </tr></thead><tbody><tr><td><strong>For</strong></td><td><p>Here is an example on how to use <strong>For </strong>in the Script View where the <em>acceptAlert </em>keyword will be executed 10 times</p><p><img src="../../images/katalon-studio/tutorials/common_condition_control_statements/24.png"></p></td></tr><tr><td><strong>While</strong></td><td><p>Here is an example on how to use <strong>For </strong>in the Script View where the value of <strong>varA </strong>is <strong>true</strong></p><p><img src="../../images/katalon-studio/tutorials/common_condition_control_statements/25.png"></p></td></tr></tbody></table>
+<table><thead><tr><th>Looping statement</th> <th>Screenshot</th> </tr></thead><tbody><tr><td><strong>For</strong></td><td><p>Here is an example on how to use <strong>For </strong>in the Script View where the <em>acceptAlert </em>keyword will be executed 10 times</p><p><img src="../../images/katalon-studio/tutorials/common_condition_control_statements/24.png"></p></td></tr><tr><td><strong>While</strong></td><td><p>Here is an example on how to use <strong> While </strong>in the Script View where the value of <strong>varA </strong>is <strong>true</strong></p><p><img src="../../images/katalon-studio/tutorials/common_condition_control_statements/25.png"></p></td></tr></tbody></table>
 
 Branching statements
 --------------------
